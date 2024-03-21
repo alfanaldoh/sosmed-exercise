@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Firza Jancok",
+      "email": "firza@mail.com",
+      "password": "Admin123",
+      "isVerify": true
+    },
+    {
+      "name": "Muksal",
+      "email": "muksal@mail.com",
+      "password": "skadasahdkada",
+      "isVerify": false,
+      "id": 2
+    },
+    {
+      "name": "Adi",
+      "email": "adi@gmail.com",
+      "password": "asdasdiahda",
+      "isVerify": false,
+      "id": 3
+    },
+    {
+      "name": "Muksal",
+      "email": "muksasadadl@mail.com",
+      "password": "sadaasad",
+      "isVerify": false,
+      "id": 4
+    }
+  ]
+}
